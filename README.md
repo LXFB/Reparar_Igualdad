@@ -34,4 +34,4 @@ Para arrancar desde la unidad USB es necesario configurar el BIOS. La interfaz d
 
 Una vez iniciado se abrira un documento con ayuda. 
 
-**ESTE SOFTWARE SE ENTREGA CON EL FIN DE QUE SEA UTIL -SIN GARANTIA ALGUNA- EL CORRECTO USO ES RESPONSABLIDAD DEL USUARIO**    
+**ESTE SOFTWARE SE ENTREGA SIN GARANTIA ALGUNA EL CORRECTO USO ES RESPONSABLIDAD DEL USUARIO**    
