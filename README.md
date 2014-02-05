@@ -30,3 +30,8 @@ Para arrancar desde la unidad USB es necesario configurar el BIOS. La interfaz d
 - Iniciar la màquina
 - Presionar **F2** de forma constante hasta ingresar al BIOS
 - Seguir las instrucciones de las imagenes
+
+
+Una vez iniciado se abrira un documento con ayuda. 
+
+**ESTE SOFTWARE SE ENTREGA CON EL FIN DE QUE SEA UTIL -SIN GARANTIA ALGUNA- EL CORRECTO USO ES RESPONSABLIDAD DEL USUARIO**    
