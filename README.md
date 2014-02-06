@@ -16,7 +16,7 @@ Para utilizàr Reparar_Igualdad es necesario crear un USB de arranque y luego in
 - Ejecutar LiveUSBCreator.exe (incluido en la carpeta descargada)
 - Seguir las instrucciones de la imagen
 
-![Alt](http://fotos.subefotos.com/eec7573e5be02945390e7e1a8cabc6f7o.png)
+![Alt](http://fotos.subefotos.com/f43bf9b818d15745b17ecdba61663275o.png)
 
 El contenido de la unidad USB **SERA BORRADO DE FORMA PERMANENTE** :exclamation:
 
