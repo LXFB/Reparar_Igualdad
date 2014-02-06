@@ -3,7 +3,7 @@ Reparar_Igualdad
 
 Reparar_Igualdad es una modificación de la distribución Ubuntu GNU/Linux en su versión minimal-remix, creada con el único fin de dar una opcion unificada de herramientas básicas para reparar el sistema a los usuarios de netbooks del plan gubernamental Argentino Conectar_Igualdad. 
 
-<h3 color='#2E2E2E'>**No es oficial, ni guarda relación alguna con el plan Conectar_Igualdad**. </h3> 
+<p style="color:#2E2E2E">No es oficial, ni guarda relación alguna con el plan Conectar_Igualdad.</p> 
 
 Para utilizàr Reparar_Igualdad es necesario crear un USB de arranque y luego iniciar desde el mismo.
 
