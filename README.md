@@ -18,7 +18,7 @@ Para utilizàr Reparar_Igualdad es necesario crear un USB de arranque y luego in
 
 ![Alt](http://fotos.subefotos.com/eec7573e5be02945390e7e1a8cabc6f7o.png)
 
-:exclamation: Seleccionar correctamente la unidad USB **SU CONTENIDO SE BORRARA DE FORMA PERMANENTE** 
+El contenido de la unidad USB **SERA BORRADO DE FORMA PERMANENTE** :exclamation::exclamation:
 
 ###Linux
 
