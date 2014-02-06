@@ -32,7 +32,7 @@ El contenido de la unidad USB **SERA BORRADO DE FORMA PERMANENTE** :exclamation:
 
 ##Iniciar desde la unidad USB
 
-Para arrancar desde la unidad USB es necesario configurar el BIOS. Existen dos interfaces de BIOS distintas en las netbooks del plan Conectar_Igualdad, segun el modelo de la maquina. Se incluyen imagenes para ambas interfaces, seguir la que corresponda.
+Para arrancar desde la unidad USB es necesario configurar el BIOS. Existen dos interfaces de BIOS distintas en las netbooks del plan Conectar_Igualdad, segun el modelo de màquina. Se incluyen imàgenes para ambas interfaces, seguir la que corresponda.
 
 - Insertar la unidad USB en la màquina a reparar
 - Iniciar la màquina
@@ -46,6 +46,6 @@ Para arrancar desde la unidad USB es necesario configurar el BIOS. Existen dos i
 ###BIOS B
 ![Alt](http://fotos.subefotos.com/d93ae1ef4c2654614003d8f7a037ad5fo.png)
 
-Una vez iniciado Reparar_Igualdad se abrira un documento con ayuda. 
+Una vez iniciado Reparar_Igualdad se mostrarà un documento con ayuda. 
 
 **ESTE SOFTWARE SE ENTREGA SIN GARANTIA ALGUNA EL CORRECTO USO ES RESPONSABILIDAD DEL USUARIO**    
