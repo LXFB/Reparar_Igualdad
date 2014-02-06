@@ -48,4 +48,5 @@ Para arrancar desde la unidad USB es necesario configurar el BIOS. Existen dos i
 
 Una vez iniciado Reparar_Igualdad se mostrarà un documento con ayuda. 
 
-**ESTE SOFTWARE SE ENTREGA SIN GARANTIA ALGUNA EL CORRECTO USO ES RESPONSABILIDAD DEL USUARIO**    
+**ESTE SOFTWARE SE ENTREGA SIN GARANTIA ALGUNA.**
+**EL CORRECTO USO ES RESPONSABILIDAD DEL USUARIO**    
