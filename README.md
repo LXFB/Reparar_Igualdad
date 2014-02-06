@@ -14,7 +14,7 @@ Para utilizàr Reparar_Igualdad es necesario crear un USB de arranque y luego in
 - Ejecutar LiveUSBCreator.exe (incluido en la carpeta descargada)
 - Seguir las instrucciones de la imagen
 
-![Alt](http://fotos.subefotos.com/a1ee8f26da42f8c631f856a75a35ea6do.png)
+![Alt](http://fotos.subefotos.com/eec7573e5be02945390e7e1a8cabc6f7o.png)
 
 Nota: Seleccionar correctamente la unidad USB **TODO SU CONTENIDO SERA ELIMINADO DE FORMA PERMANENTE** 
 
@@ -22,9 +22,9 @@ Nota: Seleccionar correctamente la unidad USB **TODO SU CONTENIDO SERA ELIMINADO
 
 - Obtener [reparar_igualdad](http://sourceforge.com)
 - En un terminal `sudo dd if=/ruta/a/repararIgualdad.ISO  of=/unidad_usb` **[ELIMINARA TODO EN EL USB]**
-- **Ejemplo** `sudo dd if=/home/miusuario/Descargas/reparar_igualdad/Ubuntu-12.10.ISO  of=/dev/sdc1`
+- **Ejemplo** `sudo dd if=/home/miusuario/Descargas/reparar_igualdad/Ubuntu-i386-12.04.ISO  of=/dev/sdc1`
   
-Para ver la ubicaciòn de la unidad USB `sudo cfdisk -l` para desmontarla `sudo umount unidad_usb`
+Para ver la ubicaciòn de la unidad USB `sudo fdisk -l` para desmontarla `sudo umount unidad_usb`
 
 ##Iniciar desde el USB
 
