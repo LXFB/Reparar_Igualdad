@@ -24,14 +24,20 @@ Para ver la ubicaciòn de la unidad USB `sudo cfdisk -l` para desmontarla `sudo 
 
 ##Iniciar desde el USB
 
-Para arrancar desde la unidad USB es necesario configurar el BIOS. La interfaz del BIOS es distinta entre los dos modelos de netbooks entregadas. Se incluyen imàgenes de ambos modelos, llamando '**primera generacion**' a las netbook n2ww3 entregadas inicialmente y '**segunda generacion**' a las netbooks w23erw, seguir el instructivo que corresponda.
+Para arrancar desde la unidad USB es necesario configurar el BIOS. Existen dos interfaces de BIOS distintas en las netbooks del plan Conectar_Igualdad, segun el modelo de la maquina. Se incluyen imagenes para ambas interfaces, seguir la que corresponda.
 
 - Insertar la unidad USB en la màquina a reparar
 - Iniciar la màquina
 - Presionar **F2** de forma constante hasta ingresar al BIOS
-- Seguir las instrucciones de las imagenes
+- Seguir las instrucciones de las imagenes 
 
+###BIOS A
+![Alt](http://fotos.subefotos.com/d38264e83658e9aabd79f313c07bac8bo.png)
+![Alt](http://fotos.subefotos.com/a58649e564a5233266e6eb66b41d605fo.png)
 
-Una vez iniciado se abrira un documento con ayuda. 
+###BIOS B
+![Alt](http://fotos.subefotos.com/d93ae1ef4c2654614003d8f7a037ad5fo.png)
+
+Una vez iniciado Reparar_Igualdad se abrira un documento con ayuda. 
 
 **ESTE SOFTWARE SE ENTREGA SIN GARANTIA ALGUNA EL CORRECTO USO ES RESPONSABLIDAD DEL USUARIO**    
