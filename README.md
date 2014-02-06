@@ -5,7 +5,6 @@ Reparar_Igualdad es una modificación de la distribución Ubuntu GNU/Linux en su
 
 **No es oficial, ni guarda relación alguna con el plan Conectar_Igualdad.** 
 
-
 Para utilizàr Reparar_Igualdad es necesario crear un USB de arranque y luego iniciar desde el mismo.
 
 ##Crear USB de arranque
