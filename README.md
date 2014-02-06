@@ -11,8 +11,12 @@ Para utilizàr Reparar_Igualdad es necesario crear un USB de arranque y luego in
 
 - Obtener [reparar_igualdad](http://sourceforge.com)
 - Insertar la unidad USB
-- Instalar LiveUSBCreator (ejecutar LiveUSBCreator.exe incluido en la carpeta descargada)
+- Ejecutar LiveUSBCreator.exe (incluido en la carpeta descargada)
 - Seguir las instrucciones de la imagen
+
+![Alt](http://fotos.subefotos.com/a1ee8f26da42f8c631f856a75a35ea6do.png)
+
+Nota: Seleccionar correctamente la unidad USB **TODO SU CONTENIDO SERA ELIMINADO DE FORMA PERMANENTE** 
 
 ###Linux
 
