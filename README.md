@@ -18,7 +18,7 @@ Para utilizàr Reparar_Igualdad es necesario crear un USB de arranque y luego in
 
 ![Alt](http://fotos.subefotos.com/eec7573e5be02945390e7e1a8cabc6f7o.png)
 
-El contenido de la unidad USB **SERA BORRADO DE FORMA PERMANENTE** :exclamation::exclamation:
+El contenido de la unidad USB **SERA BORRADO DE FORMA PERMANENTE** :exclamation:
 
 ###Linux
 
@@ -48,4 +48,4 @@ Para arrancar desde la unidad USB es necesario configurar el BIOS. Existen dos i
 
 Una vez iniciado Reparar_Igualdad se abrira un documento con ayuda. 
 
-**ESTE SOFTWARE SE ENTREGA SIN GARANTIA ALGUNA EL CORRECTO USO ES RESPONSABLIDAD DEL USUARIO**    
+<p style="font-size:40">ESTE SOFTWARE SE ENTREGA SIN GARANTIA ALGUNA EL CORRECTO USO ES RESPONSABLIDAD DEL USUARIO<p/>    
