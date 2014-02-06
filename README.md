@@ -16,17 +16,19 @@ Para utilizàr Reparar_Igualdad es necesario crear un USB de arranque y luego in
 
 ![Alt](http://fotos.subefotos.com/eec7573e5be02945390e7e1a8cabc6f7o.png)
 
-Nota: Seleccionar correctamente la unidad USB **TODO SU CONTENIDO SERA ELIMINADO DE FORMA PERMANENTE** 
+Nota: Seleccionar correctamente la unidad USB **SU CONTENIDO SE BORRARA DE FORMA PERMANENTE** 
 
 ###Linux
 
 - Obtener [reparar_igualdad](http://sourceforge.com)
-- En un terminal `sudo dd if=/ruta/a/repararIgualdad.ISO  of=/unidad_usb` **[ELIMINARA TODO EN EL USB]**
+- En un terminal `sudo dd if=/ruta/a/repararIgualdad.ISO  of=/unidad_usb`
 - **Ejemplo** `sudo dd if=/home/miusuario/Descargas/reparar_igualdad/Ubuntu-i386-12.04.ISO  of=/dev/sdc1`
-  
-Para ver la ubicaciòn de la unidad USB `sudo fdisk -l` para desmontarla `sudo umount unidad_usb`
 
-##Iniciar desde el USB
+Para ver la ubicaciòn de la unidad USB `sudo fdisk -l` para desmontarla `sudo umount /unidad_usb`
+  
+Nota: Seleccionar correctamente la unidad USB **SU CONTENIDO SE BORRARA DE FORMA PERMANENTE** 
+
+##Iniciar desde la unidad USB
 
 Para arrancar desde la unidad USB es necesario configurar el BIOS. Existen dos interfaces de BIOS distintas en las netbooks del plan Conectar_Igualdad, segun el modelo de la maquina. Se incluyen imagenes para ambas interfaces, seguir la que corresponda.
 
