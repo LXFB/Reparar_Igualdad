@@ -28,7 +28,7 @@ Para utilizàr Reparar_Igualdad es necesario crear un USB de arranque y luego in
 
 Para ver la ubicaciòn de la unidad USB `sudo fdisk -l` para desmontarla `sudo umount /unidad_usb`
   
-:exclamation: El contenido de la unidad USB **SERA BORRADO DE FORMA PERMANENTE**
+El contenido de la unidad USB **SERA BORRADO DE FORMA PERMANENTE** :exclamation:
 
 ##Iniciar desde la unidad USB
 
