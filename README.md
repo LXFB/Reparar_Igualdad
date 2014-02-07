@@ -27,7 +27,7 @@ El contenido de la unidad USB **SERA BORRADO DE FORMA PERMANENTE** :exclamation:
 - Obtener [reparar_igualdad](http://sourceforge.com)
 - En un terminal
 - `sudo fdisk -l` # ver el punto de montaje de la unidad USB
-- `sudo umount /dev/sd**X**` # desmontar la unidad USB -reemplazar **X** con la letra correpondiente-
+- `sudo umount /dev/sdX` # desmontar la unidad USB -reemplazar **X** con la letra correspondiente-
 - `sudo dd if=/ruta/a/repararIgualdad.ISO  of=/unidadUSB` # crear la unidad USB arrancable
 - **Ejemplo** `sudo dd if=/home/miusuario/Descargas/reparar_igualdad/Ubuntu-i386-12.04.ISO  of=/dev/sdb`
 
