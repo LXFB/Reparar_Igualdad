@@ -23,15 +23,31 @@ Para utilizàr Reparar_Igualdad es necesario crear un USB de arranque y luego in
 
 El contenido de la unidad USB **SERA BORRADO DE FORMA PERMANENTE** :exclamation:
 
-###Linux
+###GNU/Linux
+
+####Huayra
 
 - Obtener [reparar_igualdad](http://sourceforge.com)
-- En un terminal
-- `unzip reparar_igualdad.zip -d reparar_igualdad` descomprimir
-- `sudo fdisk -l` ver el punto de montaje de la unidad USB
-- `sudo umount /dev/sdXY` desmontar  -reemplazar **XY** con letra y numero correspondiente-
-- `sudo dd if=/ruta/a/repararIgualdad.iso  of=/unidadUSB` crear la unidad USB arrancable
-- **Ejemplo** `sudo dd if=/home/miusuario/Descargas/reparar_igualdad/Ubuntu-i386-12.04.iso of=/dev/sdb`
+- Descomprimir (ZIP)
+- Insertar la unidad USB
+- Seguir las instrucciones de las imagenes
+
+![Alt](http://fotos.subefotos.com/029d493c80ec429408a9471313255c29o.png)
+
+![Alt](http://fotos.subefotos.com/b5569741be4b4e73702f82c5c89eb178o.png)
+
+El contenido de la unidad USB **SERA BORRADO DE FORMA PERMANENTE** :exclamation:
+
+####Ubuntu
+
+- Obtener [reparar_igualdad](http://sourceforge.com)
+- Descomprimir (ZIP)
+- Insertar la unidad USB
+- Seguir las instrucciones de las imagenes
+
+![Alt](http://fotos.subefotos.com/029d493c80ec429408a9471313255c29o.png)
+
+![Alt](http://fotos.subefotos.com/b5569741be4b4e73702f82c5c89eb178o.png)
 
 El contenido de la unidad USB **SERA BORRADO DE FORMA PERMANENTE** :exclamation:
 
@@ -52,5 +68,7 @@ Para arrancar desde la unidad USB es necesario configurar el BIOS. Existen dos i
 ![Alt](http://fotos.subefotos.com/d93ae1ef4c2654614003d8f7a037ad5fo.png)
 
 Una vez iniciado Reparar_Igualdad se mostrarà un documento con ayuda. 
+
+![Alt](http://fotos.subefotos.com/b6ab704c1922df83d9348bca2c5b70efo.png)
 
 **ESTE SOFTWARE SE ENTREGA SIN GARANTIA ALGUNA EL CORRECTO USO ES RESPONSABILIDAD DEL USUARIO**    
