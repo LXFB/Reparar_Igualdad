@@ -45,7 +45,7 @@ El contenido de la unidad USB **SERA BORRADO DE FORMA PERMANENTE** :exclamation:
 - Insertar la unidad USB
 - Seguir las instrucciones de las imagenes
 
-![Alt](http://fotos.subefotos.com/029d493c80ec429408a9471313255c29o.png)
+![Alt](http://fotos.subefotos.com/fa811fdb1628cb12e5f14da1d9f0e1a2o.png)
 
 ![Alt](http://fotos.subefotos.com/b5569741be4b4e73702f82c5c89eb178o.png)
 
