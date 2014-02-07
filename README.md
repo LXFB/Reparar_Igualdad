@@ -9,7 +9,7 @@ Para utilizàr Reparar_Igualdad es necesario crear un USB de arranque y luego in
 
 ##Crear USB de arranque
 
-- Es necesario una unidad USB con capacidad de 2Gb o superior.
+- Es necesario una unidad USB con capacidad de 500Mb o superior.
 
 ###Windows
 
@@ -68,7 +68,5 @@ Para arrancar desde la unidad USB es necesario configurar el BIOS. Existen dos i
 ![Alt](http://fotos.subefotos.com/d93ae1ef4c2654614003d8f7a037ad5fo.png)
 
 Una vez iniciado Reparar_Igualdad se mostrarà un documento con ayuda. 
-
-![Alt](http://fotos.subefotos.com/b6ab704c1922df83d9348bca2c5b70efo.png)
 
 **ESTE SOFTWARE SE ENTREGA SIN GARANTIA ALGUNA EL CORRECTO USO ES RESPONSABILIDAD DEL USUARIO**    
