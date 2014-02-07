@@ -14,7 +14,7 @@ Para utilizàr Reparar_Igualdad es necesario crear un USB de arranque y luego in
 ###Windows
 
 - Obtener [reparar_igualdad](http://sourceforge.com)
-- Descomprimir (formato ZIP)
+- Descomprimir (ZIP)
 - Insertar la unidad USB
 - Ejecutar LiveUSBCreator.exe (incluido en la carpeta descargada)
 - Seguir las instrucciones de la imagen
