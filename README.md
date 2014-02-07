@@ -9,6 +9,8 @@ Para utilizàr Reparar_Igualdad es necesario crear un USB de arranque y luego in
 
 ##Crear USB de arranque
 
+- Es necesario una unidad USB con capacidad de 2Gb o superior.
+
 ###Windows
 
 - Obtener [reparar_igualdad](http://sourceforge.com)
@@ -23,11 +25,12 @@ El contenido de la unidad USB **SERA BORRADO DE FORMA PERMANENTE** :exclamation:
 ###Linux
 
 - Obtener [reparar_igualdad](http://sourceforge.com)
-- En un terminal `sudo dd if=/ruta/a/repararIgualdad.ISO  of=/unidad_usb`
-- **Ejemplo** `sudo dd if=/home/miusuario/Descargas/reparar_igualdad/Ubuntu-i386-12.04.ISO  of=/dev/sdc1`
+- En un terminal
+- `sudo fdisk -l` # ver el punto de montaje de la unidad USB
+- `sudo umount /dev/sdX` # desmontar la unidad USB - reemplazar X con la letra correpondiente -
+- `sudo dd if=/ruta/a/repararIgualdad.ISO  of=/unidad_usb` # crear la unidad USB arrancable
+- **Ejemplo** `sudo dd if=/home/miusuario/Descargas/reparar_igualdad/Ubuntu-i386-12.04.ISO  of=/dev/sdb`
 
-Para ver la ubicaciòn de la unidad USB `sudo fdisk -l` para desmontarla `sudo umount /unidad_usb`
-  
 El contenido de la unidad USB **SERA BORRADO DE FORMA PERMANENTE** :exclamation:
 
 ##Iniciar desde la unidad USB
