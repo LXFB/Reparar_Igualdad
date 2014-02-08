@@ -13,7 +13,7 @@ Es necesario una unidad USB con capacidad de 500Mb o superior.
 
 ###Windows
 
-- Obtener [reparar_igualdad](https://sourceforge.net/projects/repararigualdad/files/latest/download)
+- Obtener ![reparar_igualdad](https://sourceforge.net/projects/repararigualdad/files/latest/download)
 - Descomprimir (ZIP)
 - Insertar la unidad USB
 - Ejecutar LiveUSBCreator.exe (incluido en la carpeta descargada)
