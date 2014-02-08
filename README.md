@@ -11,7 +11,7 @@ Para utilizàr Reparar_Igualdad es necesario crear un USB de arranque y luego in
 
 Es necesario una unidad USB con capacidad de 500Mb o superior.
 
-- Obtener [reparar_igualdad](https://sourceforge.net/projects/repararigualdad/files/latest/download)
+- Obtener [reparar_igualdad](https://downloads.sourceforge.net/project/repararigualdad/reparar_igualdad.zip?r=https%3A%2F%2Fgithub.com%2FLXFB%2FReparar_Igualdad&ts=1391866182&use_mirror=ufpr)
 - Descomprimir (ZIP)
 
 ###Windows
