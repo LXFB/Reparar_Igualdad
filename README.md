@@ -9,12 +9,13 @@ Para utilizàr Reparar_Igualdad es necesario crear un USB de arranque y luego in
 
 ##Crear USB de arranque
 
+- Obtener [reparar_igualdad](https://sourceforge.net/projects/repararigualdad/files/latest/download)
+- Descomprimir (ZIP)
+
 Es necesario una unidad USB con capacidad de 500Mb o superior.
 
 ###Windows
 
-- Obtener ![reparar_igualdad](https://sourceforge.net/projects/repararigualdad/files/latest/download)
-- Descomprimir (ZIP)
 - Insertar la unidad USB
 - Ejecutar LiveUSBCreator.exe (incluido en la carpeta descargada)
 - Seguir las instrucciones de la imagen
@@ -27,8 +28,6 @@ El contenido de la unidad USB **SERA BORRADO DE FORMA PERMANENTE** :exclamation:
 
 ####Huayra
 
-- Obtener [reparar_igualdad](https://sourceforge.net/projects/repararigualdad/files/latest/download)
-- Descomprimir (ZIP)
 - Insertar la unidad USB
 - Seguir las instrucciones de las imagenes
 
@@ -40,8 +39,6 @@ El contenido de la unidad USB **SERA BORRADO DE FORMA PERMANENTE** :exclamation:
 
 ####Ubuntu
 
-- Obtener [reparar_igualdad](https://sourceforge.net/projects/repararigualdad/files/latest/download)
-- Descomprimir (ZIP)
 - Insertar la unidad USB
 - Seguir las instrucciones de las imagenes
 
