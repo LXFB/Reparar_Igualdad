@@ -64,6 +64,10 @@ Para arrancar desde la unidad USB es necesario configurar el BIOS. Existen dos i
 ###BIOS B
 ![Alt](http://fotos.subefotos.com/d93ae1ef4c2654614003d8f7a037ad5fo.png)
 
+Si el USB arrancable si creo usando Unetbooting se vera la siguiente pantalla
+
+![Alt](http://fotos.subefotos.com/d1498a3bd4ae9f3d4acf8145687f3ac1o.png)
+
 Una vez iniciado Reparar_Igualdad se mostrarà un documento con ayuda. 
 
 **ESTE SOFTWARE SE ENTREGA SIN GARANTIA ALGUNA EL CORRECTO USO ES RESPONSABILIDAD DEL USUARIO**    
